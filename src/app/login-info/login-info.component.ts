@@ -11,7 +11,7 @@ export class LoginInfoComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-  }
+  ngOnInit() 
+  
 
 }
