@@ -11,7 +11,7 @@ node {
     stage('git'){
 
       sh "branchname=`git branch -a | grep remotes/origin/PR`"
-      sh "git checkout $branchname"
+      sh "git checkout \$branchname"
     }
 
 
