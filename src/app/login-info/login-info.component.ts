@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { MatButtonModule} from '@angular/material';
 import {MatMenuModule} from '@angular/material/menu';
+askljfdlkasjlk;jlak;jlk
 
 @Component({
   selector: 'app-login-info',
@@ -11,7 +12,7 @@ export class LoginInfoComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() 
-  
+  ngOnInit() {
+  }
 
 }
